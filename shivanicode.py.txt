@@ -1,0 +1,7 @@
+hghvhvhvhv
+ng new my-app --style scss --routing false
+cd my-app/
+code .
+ng serve
+npm install --save ag-grid-community ag-grid-angular
+npm install
